@@ -1,0 +1,44 @@
+h2 {
+  
+    color: #0000cd;
+    letter-spacing: 2px;
+    }
+   meta1 {
+     color: #ff0000;
+     letter-spacing: 5px;
+    
+     }
+   meta2 {
+     color: #ff0000;
+     }
+ b1 {
+       background-color: #ffb6c1;
+       }
+       meta3 {
+         color: #800000;
+       }
+        b2 {
+        
+         color: #ffff00;
+         }
+         b3 {
+           color: #d02090;
+          
+           }
+           b4 {
+             background-color: #ff9413;
+             color: #800000;
+             p {
+               color: #800000;
+             }
+            
+             body {
+                    width: 100%;
+                    height: 100%;
+                    background-image: url(image/background.jpeg);
+                    background-size: 100% 100%;
+                }
+     meta3 {
+            
+           }
+        
